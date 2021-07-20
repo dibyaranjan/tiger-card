@@ -15,7 +15,7 @@ Zones | Peak hour charge | off peak hour charge
 ------|------------------|---------------------
 1-1   | 30               |25
 1-2   | 35               |30
-2-2   | 25               /20
+2-2   | 25               |20
 
 3. Fare limits
 
