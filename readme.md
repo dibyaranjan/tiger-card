@@ -30,3 +30,5 @@ Zones | Daily limit      | Weekly limit
 1. Doesn't support computation per event
 2. As no unique commuter ID present can not fail fast for fare limits
 3. A mix of Solitary and Sociable tests
+4. Predicting an extension of zone (Explained in the problem statement)
+5. Predicting an addition of monthly are limit (explained in the example)
